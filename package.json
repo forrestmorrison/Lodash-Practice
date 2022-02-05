@@ -1,0 +1,22 @@
+{
+  "name": "lodash-practice",
+  "version": "1.0.0",
+  "description": "Lodash practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[A\u001b[B\u001b[B"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrestmorrison/Lodash-Practice.git"
+  },
+  "author": "Forrest Morrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forrestmorrison/Lodash-Practice/issues"
+  },
+  "homepage": "https://github.com/forrestmorrison/Lodash-Practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
