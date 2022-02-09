@@ -4,7 +4,7 @@
   "description": "Lodash practice",
   "main": "main.js",
   "scripts": {
-    "test": "\u001b[A\u001b[A\u001b[B\u001b[B"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
